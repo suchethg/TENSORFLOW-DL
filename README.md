@@ -1,1 +1,1 @@
-using Tensorflow for Deeplearning.
+Implementing DeepLearning using Tensorflow.
